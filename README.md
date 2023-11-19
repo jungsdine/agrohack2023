@@ -5,14 +5,11 @@ HOW TO START
 
 DS-решение кластеризации можно найти и протестировать на Google.Colab
 
-[Colab ![image](https://github.com/jungsdine/agrohack2023/assets/125709080/009aeddb-8bc9-4529-aa82-b58bb6b14732)
-)
-](https://colab.research.google.com/drive/1oojLGBzpBCaCp6e9wDd_sbv7Y-qboV-k?usp=sharing#scrollTo=DqO6IlAeX3L)
+[Colab](https://colab.research.google.com/drive/1oojLGBzpBCaCp6e9wDd_sbv7Y-qboV-k?usp=sharing#scrollTo=DqO6IlAeX3L)
 
 Визуализация графа лежит на гитхабе по ссылке ниже, доступная для скачивания и тестирования
 
-[Github ![image](https://github.com/jungsdine/agrohack2023/assets/125709080/d3343c0b-313d-4545-b15e-d1a179a8d3fe)
-](https://github.com/BIZHAN28/Agrocode-2023)
+[Github](https://github.com/BIZHAN28/Agrocode-2023)
 
 | Алгоритм | Примерное время работы |
 |----------|----------|
